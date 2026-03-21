@@ -26,3 +26,10 @@ First, set up the database structure and migrate the CSV data:
 ```bash
 python create_db.py
 python migrate_to_mysql.py
+
+
+###2. Launch the Dashboard
+Run the Streamlit application to view the interactive UI:
+
+Bash
+streamlit run app.py
