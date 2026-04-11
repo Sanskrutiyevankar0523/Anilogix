@@ -60,4 +60,5 @@ Unlike temporary arrays or local dictionaries, AniLogix data is stored in the **
 
 <img width="1911" height="969" alt="Screenshot 2026-04-12 001834" src="https://github.com/user-attachments/assets/633d1f21-a35d-482f-ad02-28e29b9cbe5f" />
 <img width="1917" height="978" alt="Screenshot 2026-04-12 001641" src="https://github.com/user-attachments/assets/43e7cfb3-ca0d-4429-b342-31e9b1ecdb6e" />
-![Uploading image.png…]()
+<img width="1905" height="976" alt="Screenshot 2026-04-12 001320" src="https://github.com/user-attachments/assets/c6a80139-372c-4004-a9b7-bfec23cb416a" />
+
