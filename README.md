@@ -16,9 +16,7 @@ AniLogix is a full-stack **DBMS Project** that combines the power of **MySQL** w
 
 ## 🔧 Installation & Setup
 1. **Clone the repo**:
-   ```bash
-  [ git clone [https://github.com/YourUsername/AniLogix-DBMS.git](https://github.com/YourUsername/AniLogix-DBMS.git)](https://github.com/Sanskrutiyevankar0523/AniLogix.git)
-   
+
  ### Step 2: Install Dependencies
 ` ``bash
 pip install -r requirements.txt
