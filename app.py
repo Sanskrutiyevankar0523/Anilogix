@@ -226,3 +226,4 @@ if not st.session_state['logged_in']:
     auth_page()
 else:
     main_dashboard()
+    main_dashboard()
